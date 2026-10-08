@@ -1,0 +1,13 @@
+# 개인 설정과 비밀 정보
+.env
+.env.*
+!.env.example
+
+# 로컬 발송 기록
+sent_alerts.txt
+
+# 파이썬 실행 환경과 임시 파일
+.venv/
+venv/
+__pycache__/
+*.pyc
